@@ -1,6 +1,6 @@
 # DevChallenges.io - Flip The Coin
 
-##Welcome
+# Welcome
 
 This is a simple coin Flip website using Jquery library
 

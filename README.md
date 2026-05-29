@@ -2,7 +2,7 @@
 
 # Welcome
 
-This is a simple coin Flip website using Jquery library
+This is a simple coin Flip website using jQuery library
 
 # Link for live preview:
 
